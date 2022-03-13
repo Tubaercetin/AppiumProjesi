@@ -1,0 +1,2 @@
+# AppiumProjesi
+Ozdilekteyim proje
